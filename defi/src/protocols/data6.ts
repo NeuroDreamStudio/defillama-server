@@ -4661,7 +4661,7 @@ const data6: Protocol[] = [
     github: ["00labs"],
     listedAt: 1779853635,
   },
-  { id: "7932", name: "NeuroIsland", address: null, symbol: "-", url: "https://neuroisland.xyz", description: "NeuroIsland is a Cronos-based rewards protocol using an on-chain RewardVault for user-claimed CRO/CRC-20 distributions.", chain: "Cronos", logo: `${baseIconsUrl}/neuroisland.jpg`, audits: "0", gecko_id: "neuroticat", cmcId: null, category: "Staking", chains: ["Cronos"], module: "neuroisland/index.js", twitter: "neuroticatcro", github: ["NeuroDreamStudio"], listedAt: 1779853636, },
+  { id: "7932", name: "NeuroIsland", address: null, symbol: "-", url: "https://neuroisland.xyz", description: "NeuroIsland is a Cronos-based rewards protocol using an on-chain RewardVault for user-claimed CRO/CRC-20 distributions.", chain: "Cronos", logo: `${baseIconsUrl}/neuroisland.png`, audits: "0", gecko_id: "neuroticat", cmcId: null, category: "Staking", chains: ["Cronos"], module: "neuroisland/index.js", twitter: "neuroticatcro", github: ["NeuroDreamStudio"], listedAt: 1779853636, },
 
 
   {  
